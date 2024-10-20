@@ -57,7 +57,7 @@ This project focuses on creating an interactive cryptocurrency dashboard in Powe
 - Ethereum showed consistent growth in its market cap and volume, alongside Dogecoin's more sporadic spikes.
 - Key metrics visualized include the sum of volume, maximum high, minimum low, and average market cap.
 
-**5. Multiple Page Power BI Report**
+### 5. Multiple Page Power BI Report**
 
 **The report spans multiple pages to provide a detailed analysis of various aspects of cryptocurrency:**
 
@@ -66,7 +66,7 @@ This project focuses on creating an interactive cryptocurrency dashboard in Powe
 - Yearly Trends Page: Focused on the evolution of the market year by year, highlighting the dramatic growth in market cap and price across the years from 2013 to 2021.
 - Cryptocurrency Specific Pages: Separate pages were created for each cryptocurrency (Bitcoin, Ethereum, Dogecoin), where detailed metrics like high, low, open, close, volume, and price fluctuations are displayed.
 
-**6. Interconnected Multiple Page Dashboard**
+### 6. Interconnected Multiple Page Dashboard**
 
 **Interactivity:** The Power BI dashboard is fully interactive, with slicers and filters allowing users to navigate between pages and focus on different time frames and cryptocurrencies.
 - A slicer was added to filter by year, enabling users to explore how the market has changed over time.
