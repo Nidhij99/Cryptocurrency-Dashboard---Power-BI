@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project focuses on creating an interactive cryptocurrency dashboard in Power BI using data sourced from Kaggle. The main goal is to visualize key cryptocurrency metrics, perform predictive analysis, and implement custom visualizations with design elements such as neon effects. The dataset includes popular cryptocurrencies like Bitcoin, Dogecoin, and Ethereum, and the dashboard is designed to provide a comprehensive view of the market over time.
+This project focuses on creating an interactive cryptocurrency dashboard in Power BI using data sourced from Kaggle. The main goal is to visualize key cryptocurrency metrics, perform predictive analysis, Forecasting and implement custom visualizations with design elements such as neon effects. The dataset includes popular cryptocurrencies like Bitcoin, Dogecoin, and Ethereum, and the dashboard is designed to provide a comprehensive view of the market over time.
 
 ## Cryptocurrency Dashboard Image -
 
